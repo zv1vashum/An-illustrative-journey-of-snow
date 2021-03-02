@@ -212,7 +212,8 @@ simplified his findings as guides and also tried to debunk myths and nonsense.</
 <img src="images/03_stellardendrites1.jpg" alt="figure3_types_of_snowflakes_stellarDendrites">
 <figcaption>Figure 2.Triangular crystals. Figure 3. Stellar dendrites (Kenneth Libbrecht, n.d).</figcaption>
 </figure><br>
-In general, visual studies in science are vast and complex, exclusively meant for
+
+<<p>In general, visual studies in science are vast and complex, exclusively meant for
 scientific purposes to demonstrate a more visual simulating view of the hoard
 of information that the researchers have found. In the field of design for my
 target group, there are only a few and are remotely demonstrated through live
@@ -236,8 +237,8 @@ house (1907) designed by the Belgian architect Henry Van de Velde. These
 tactile installations are replicated in the same size of the real artifact displayed,
 making it more accessible with braille reliefs for the content.</p>
 <figure>
-<img src="images/04_Weimar1.jpg" alt="figure2_tactile_miniature-Building_Weimar" >
-<img src="images/05_Weimar5.jpg" alt="figure3_kiosk_tactile-Graphic_Weimar">
+<img src="images/04_Weimar1.jpg" alt="figure2_tactile_miniature-Building_Weimar" width="500">
+<img src="images/05_Weimar5.jpg" alt="figure3_kiosk_tactile-Graphic_Weimar" width="500">
 <figcaption>Figure 4. Tactile model of “Hohe Pappeln” house (1907) of the Belgian architect Henry Van de Velde disolayed at Klassik Stiftung Weimar. Figure 5. tA tactile pavillion showing the Facade of Germany National Theater.
 (Tactile Studio, n.d).</figcaption>
 </figure><br>
@@ -247,8 +248,8 @@ Louvre through time. There are 3D reconstructed artifacts with an accessible
 pavilion that provides the visitors of the rich history that they are going to
 explore.</p><br>
 <figure>
-<img src="images/06_figure.jpg" alt="figure06_tactile_Helmet_Louvre">
-<img src="images/07_figure.jpg" alt="figure07_kiosk_tactile-Graphic_Louvre">
+<img src="images/06_figure.jpg" alt="figure06_tactile_Helmet_Louvre" width="500">
+<img src="images/07_figure.jpg" alt="figure07_kiosk_tactile-Graphic_Louvre" width="500">
 <figcaption>Figure 6. A parade helmet of King Charles VI, inscribed with his motto and his emblem – the winged stag.
 Figure 7. Tactile station at the pavilion in 3D relief and braille, Pavillon de l’Horloge at the Louvre.
 (Tactile Studio, n.d).</figcaption>
@@ -276,7 +277,7 @@ noticed that they have hosted a workshop to create engaging space and one of
 them specifies multi-sensory systems for digital visual displays of their artifacts.
 However, for one of my target groups there is little to no facilities available to
 experience objects and science in this space.</p><br>
-<img src="images/09_10_figure.jpg" alt="figure09_10_workshop_NatureKundMuseum">
+<img src="images/09_10_Figure.jpg" alt="figure09_10_workshop_NatureKundMuseum">
 <figcaption>Figure 9. Illustrated workshop touch points that empahsize meeting their traget group needs. Digitization and multi-sensory access to the exhibition– NaturkundeMuseum, Berlin.
 Figure 10. Outline of collecting future ideas and planning, NaturkundeMuseum, Berlin.</figcaption>
 </figure><br>
@@ -325,7 +326,7 @@ to trace a circle on the screen and noted that the children were perceiving
 themselves as the turtle on the screen to predict the moves and actions to draw
 the circle.</p><br>
 <figure>
-<img src="images/15_Braindump2.jpg" alt="figure4_brainDumps">
+<img src="images/15_Braindump2.jpg" alt="figure4_brainDumps" width="500">
 <figcaption>figure1.Brain dumps</figcaption></figure>
 
 <h1 id="syntonicLearning">4.1 Syntonic learning for meaningful and creative learning</h1>
@@ -344,7 +345,7 @@ and ends. That way, they are not only able to perceive the scientifi c point of
 view but are able to transpose their first-hand experience of snowflakes to their
 perceived knowledge.<br>
 <figure>
-<img src="images/16_figure.jpg" alt="figure16_frogeggs-stars-Huckleberry-Finn" width="500px">
+<img src="images/16_figure.png" alt="figure16_frogeggs-stars-Huckleberry-Finn" width="500px">
 <figcaption>figure1. Brain dumps</figcaption></figure>
 The ideology of syntonic learning is to make a deeper connection to ideas
 that brings interest and passions. It may sound idyllic when looking at it from
@@ -500,17 +501,17 @@ tactile graphics.<br>
 language and braille.<br>
 The design methods are further elaborated into my 5.0 Design process.</p>
 <figure>
-<img src="images/designthinkingProcess.png" alt="figure24_designthinkingProces">
+<img src="images/designthinkingProcess.png" alt="figure24_designthinkingProces" width="400">
 <figcaption>Figure 22.Design attitude: Design Thinking process. (IdeoU, 2020)</figcaption>
 </figure>
 <figure>
-<img src="images/Design-Attitude_Doodle.png" alt="figure25_onionLayer">
+<img src="images/Design-Attitude_Doodle.png" alt="figure25_onionLayer" width="400">
 <figcaption>Figure 23.Design attitude: Simon Sinek’s the Golden circle.
 (Sinek, 2020)</figcaption>
 </figure>
 
 <h1 id="workshop">4.6 Workshop: Creating ideas from experience</h1>
-<img src="images/24a_figure.jpg" alt="figure24a_workshop-exercise">
+<img src="images/24a_figure.jpg" alt="figure24a_workshop-exercise" width="500">
 <br>
 <p>The aim of the workshop is to fi nd my participants’ experiences with snow
 and use their experience to help a possible user visualize the theme in and
@@ -535,8 +536,8 @@ knowledge and drew many creative snow crystals in the process. The results are
 then studied and taken as the key elements to make interactive snowflakes for
 the screen.<br>
 <figure>
-<img src="images/24b_figure.jpg" alt="figure24b_workshop-exercise">
-<img src="images/workshop_ex1.jpg" alt="figure24__workshopResults">
+<img src="images/24b_figure.jpg" alt="figure24b_workshop-exercise" width="500">
+<img src="images/workshop_ex1.jpg" alt="figure24__workshopResults" width="500">
 <figcaption>Figure 24.Workshop of creating ideas’ how to introduction. Figure 25.Submission of participants’ exercises.</figcaption>
 </figure><br>
 The exercises submitted by the participants showcased strong visualization of
@@ -558,7 +559,7 @@ various shapes of snowflakes.
 </p><br>
 
 <figure>
-<img src="images/workshop_ex2.jpg" alt="figure27_dendritestellar">
+<img src="images/workshop_ex2.jpg" alt="figure27_dendritestellar" width="500">
 <figcaption>Figure 26. One of the workshop exercises and the final visualization on screen. It shows a snow crystal
 growing into dendrite stellar in humidity of 0.2 cubic gram per cubic meter and temperature of
 approx -15 degree celsius.</figcaption>
@@ -572,8 +573,8 @@ a point to a whole set of hexagons into different types of snowflakes. Images of
 LOGO snow renders. Image below shows how I started creating different sizes
 with one simple hexagon.</p><br>
 <figure>
-<img src="images/27_figure.jpg" alt="figure27_logo-program-code">
-<img src="images/27a_figure.jpg" alt="figure27_logo-program-hexagon-shape">
+<img src="images/27_figure.jpg" alt="figure27_logo-program-code" width="500">
+<img src="images/27a_figure.jpg" alt="figure27_logo-program-hexagon-shape" width="500">
 <figcaption>Figure 27.Moving turtle to make a series of hexagon in logo progamming.</figcaption>
 </figure>
 <p>I also rendered designs to create a story of how snowflakes are created but
@@ -600,8 +601,8 @@ helps me with visual programming but is able to connect with an analog system
 like Arduino.</p>
 <br>
 <figure>
-<img src="images/28b_figure.jpg" alt="figure28_logo-program-nimbostratus-cloud-in-code">
-<img src="images/29_figure.jpg" alt="figure29_logo-program-hexagon-shape-solid-plate-snow-crystal">
+<img src="images/28b_figure.jpg" alt="figure28_logo-program-nimbostratus-cloud-in-code" width="500">
+<img src="images/29_figure.jpg" alt="figure29_logo-program-hexagon-shape-solid-plate-snow-crystal" width="500">
 <figcaption>Figure 28. Code that create a symbol sign of nimbostratus cloud in Logo programming. Figure 29.A visualization done in Logo programming rendering geometric diagram of solid plate snow crystal.</figcaption>
 </figure>
 
@@ -631,7 +632,7 @@ The question consists of the following exploration<br>
 - understanding the snow science behind it.<br>
 - tactile feel for a better learning experience.
 </p><br>
-<img src="images/30_figure.jpg" alt="figure30__brainDumps">
+<img src="images/30_figure.jpg" alt="figure30__brainDumps"  width="500">
 <figcaption>Figure 30. Sketch of my design concept that focuses on multi-sensory experience.</figcaption>
 </figure><br>
 
@@ -654,7 +655,7 @@ mathematician.</li>
 </ul>
 </p><br>
 <figure>
-<img src="images/interactive_prototype_idea.png" alt="figure35__idea_flow">
+<img src="images/interactive_prototype_idea.png" alt="figure35__idea_flow" width="500">
 <figcaption>Figure 31.  A infograph sketch of how my intrecative installtion will work.</figcaption>
 </figure>
 
@@ -666,9 +667,9 @@ understand the creation of snowflakes. The paper prototype demonstrates how
 the story will begin for the user as he or she interacts with the installation. For
 the tactile graphics, I opted for acrylic cut out for the graphics.</p><br>
 <figure>
-<img src="images/32_figure.jpg" alt="figure35__paper-installation-layout">
-<img src="images/33_figure.jpg" alt="figure35__top-view-blueprint">
-<img src="images/34_figure.jpg" alt="figure35__3d-snowflakes-handmade">
+<img src="images/32_figure.jpg" alt="figure35__paper-installation-layout" width="500">
+<img src="images/33_figure.jpg" alt="figure35__top-view-blueprint" width="500">
+<img src="images/34_figure.jpg" alt="figure35__3d-snowflakes-handmade" width="500">
 <figcaption>Figure 32. Paper prototype of my installation. Figure
 33.Top view of my installation insketch. Figure 34.3D
 tactile graphic of a stellar dendrite snowflake.</figcaption>
@@ -685,9 +686,9 @@ starting point, its natural birth place. Then I went to explain what
 makes the shape by showing the molecule structure which then
 transforms to a dendrite stellar snow crystal.</p> <br>
 <figure>
-<img src="images/storytelling-01.jpg" alt="figure35_storytelling-01">
+<img src="images/storytelling-01.jpg" alt="figure35_storytelling-01" width="500">
 <figcaption>Figure 35.Design concept of 1st panel’s installation.</figcaption>
-<img src="images/storytelling-02.jpg" alt="figure36_storytelling-02">
+<img src="images/storytelling-02.jpg" alt="figure36_storytelling-02" width="500">
 <figcaption>Figure 36.Design concept of 2nd panel’s installation.</figcaption>
 </figure>
 
@@ -702,9 +703,9 @@ stands for each graphics were built to resolve the much-needed space for the
 lights to glow evenly.</p>
 <br>
 <figure>
-<img src="images/blueprint.jpg" alt="figure37_sketch_structure-installation">
+<img src="images/blueprint.jpg" alt="figure37_sketch_structure-installation" width="500">
 <figcaption>Figure 37.Blueprint sketched of my installation</figcaption>
-<img src="images/structure.jpg" alt="figure38-initial-making-of-the-installation">
+<img src="images/structure.jpg" alt="figure38-initial-making-of-the-installation" width="500">
 <figcaption>Figure 38. Physical structure work in progress</figcaption>
 </figure>
 
@@ -714,10 +715,10 @@ space between them to help evenly spread the lights it would emit. The cut-out
 stands for each graphics were built to resolve the much-needed space for the
 lights to glow evenly.</p>
 <figure>
-<img src="images/40_figure.jpg" alt="figure40-tactile-graphics-set-up">
+<img src="images/40_figure.jpg" alt="figure40-tactile-graphics-set-up" width="500">
 <figcaption>Figure 40. Work in progress of setting up tactile graphics on the installations’ panel.
 Laser cut MDF board cut-outs.</figcaption>
-<img src="images/41_figure.jpg" alt="figure41-laser-cut-snowflakes">
+<img src="images/41_figure.jpg" alt="figure41-laser-cut-snowflakes" width="500">
 <figcaption>Figure 41. Acrylic cut-outs of different stages of snowflakes and watermolecule structure.</figcaption>
 </figure>
 
