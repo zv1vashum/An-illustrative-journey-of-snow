@@ -602,7 +602,7 @@ like Arduino.</p>
 <br>
 <figure>
 <img src="images/28b_figure.jpg" alt="figure28_logo-program-nimbostratus-cloud-in-code" width="500">
-<img src="images/29_figure.jpg" alt="figure29_logo-program-hexagon-shape-solid-plate-snow-crystal" width="500">
+<img src="images/29_figure.JPG" alt="figure29_logo-program-hexagon-shape-solid-plate-snow-crystal" width="500">
 <figcaption>Figure 28. Code that create a symbol sign of nimbostratus cloud in Logo programming. Figure 29.A visualization done in Logo programming rendering geometric diagram of solid plate snow crystal.</figcaption>
 </figure>
 
@@ -789,7 +789,7 @@ with users.</li>
 <br>
 
 <figure>
-<img src="images/interaction3.jpg" alt="figure35_screen_interaction" width="400px">
+<img src="images/interaction3.jpg" alt="figure35_screen_interaction">
 <figcaption></figcaption>
 
 <h1 id="implications">7.0 Implications: Multi-skill sets</h1>
@@ -897,11 +897,7 @@ watch?v=ZG9cYhekB8A "></a></li>
 <li>Syntonic. (n.d.) Collins English Dictionary – Complete and Unabridged, 12th
 Edition 2014. (1991, 1994, 1998, 2000, 2003, 2006, 2007, 2009, 2011,
 2014). Retrieved from <a href="https://www.thefreedictionary.com/syntonic
-<<<<<<< HEAD
 [Accessed July 9 2019].">thefreedictionary.com</a></li>
-=======
-[Accessed July 9 2019].">Freedictionary.com</a></li>
->>>>>>> 834af9748221780d5ccbd8efc3582138aa2002e4
 <li>Polly K.Edman (1992) : Tactile Graphics. Published by AFB Press
 [HV1708. E36 1992]</li>
 <li>Timeline of snowflakes research. ( 2019, 29 September). In Wikipedia.
