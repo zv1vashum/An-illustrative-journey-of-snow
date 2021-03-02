@@ -3768,7 +3768,11 @@ watch?v=ZG9cYhekB8A "></a></li>
 <li>Syntonic. (n.d.) Collins English Dictionary – Complete and Unabridged, 12th
 Edition 2014. (1991, 1994, 1998, 2000, 2003, 2006, 2007, 2009, 2011,
 2014). Retrieved from <a href="https://www.thefreedictionary.com/syntonic
+<<<<<<< HEAD
 [Accessed July 9 2019].">thefreedictionary.com</a></li>
+=======
+[Accessed July 9 2019].">Freedictionary.com</a></li>
+>>>>>>> 834af9748221780d5ccbd8efc3582138aa2002e4
 <li>Polly K.Edman (1992) : Tactile Graphics. Published by AFB Press
 [HV1708. E36 1992]</li>
 <li>Timeline of snowflakes research. ( 2019, 29 September). In Wikipedia.
