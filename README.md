@@ -197,7 +197,7 @@ Nakaya diagram shows the morphology of snow crystals in each changing
 temperature and humidity. He also kept much photographic documentation
 that displayed each of the types of his lab-grown snow crystals.<br>
 <figure>
-<img src="images/01_museumNakaya.jpg" alt="figure1_museum-Nakaya" width="300">
+<img src="images/01_museumNakaya.jpg" alt="figure1_museum-Nakaya">
 <figcaption>Figure 1. Exhibition room. (Copyright(C) Nakaya Ukichiro Museum Of Snow Aand Ice, n.d)</figcaption>
 </figure><br>
 <p>One of the recent studies of snow crystals is of Kenneth Libbrecht, a physicist
@@ -208,8 +208,8 @@ crystals documented with the picturesque format in both video and stills. He
 covers scientific, photography, and customized snowflakes designs. He has
 simplified his findings as guides and also tried to debunk myths and nonsense.</p><br>
 <figure>
-<img src="images/02_sampler_snowflakes1.jpg" alt="figure2_types_of_snowflakes" width="300">
-<img src="images/03_stellardendrites1.jpg" alt="figure3_types_of_snowflakes_stellarDendrites" width="300">
+<img src="images/02_sampler_snowflakes1.jpg" alt="figure2_types_of_snowflakes">
+<img src="images/03_stellardendrites1.jpg" alt="figure3_types_of_snowflakes_stellarDendrites">
 <figcaption>Figure 2.Triangular crystals. Figure 3. Stellar dendrites (Kenneth Libbrecht, n.d).</figcaption>
 </figure><br>
 In general, visual studies in science are vast and complex, exclusively meant for
@@ -236,8 +236,8 @@ house (1907) designed by the Belgian architect Henry Van de Velde. These
 tactile installations are replicated in the same size of the real artifact displayed,
 making it more accessible with braille reliefs for the content.</p>
 <figure>
-<img src="images/04_Weimar1.jpg" alt="figure2_tactile_miniature-Building_Weimar" width="300">
-<img src="images/05_Weimar5.jpg" alt="figure3_kiosk_tactile-Graphic_Weimar" width="300">
+<img src="images/04_Weimar1.jpg" alt="figure2_tactile_miniature-Building_Weimar" >
+<img src="images/05_Weimar5.jpg" alt="figure3_kiosk_tactile-Graphic_Weimar">
 <figcaption>Figure 4. Tactile model of “Hohe Pappeln” house (1907) of the Belgian architect Henry Van de Velde disolayed at Klassik Stiftung Weimar. Figure 5. tA tactile pavillion showing the Facade of Germany National Theater.
 (Tactile Studio, n.d).</figcaption>
 </figure><br>
@@ -247,8 +247,8 @@ Louvre through time. There are 3D reconstructed artifacts with an accessible
 pavilion that provides the visitors of the rich history that they are going to
 explore.</p><br>
 <figure>
-<img src="images/06_figure.jpg" alt="figure06_tactile_Helmet_Louvre" width="300">
-<img src="images/07_figure.jpg" alt="figure07_kiosk_tactile-Graphic_Louvre" width="300">
+<img src="images/06_figure.jpg" alt="figure06_tactile_Helmet_Louvre">
+<img src="images/07_figure.jpg" alt="figure07_kiosk_tactile-Graphic_Louvre">
 <figcaption>Figure 6. A parade helmet of King Charles VI, inscribed with his motto and his emblem – the winged stag.
 Figure 7. Tactile station at the pavilion in 3D relief and braille, Pavillon de l’Horloge at the Louvre.
 (Tactile Studio, n.d).</figcaption>
@@ -262,7 +262,7 @@ One of them is Museo Tiflológico in Madrid, Spain inaugurated on December 20
 1992, focuses on offering blind and deaf visitors the possibility to experience
 museums through touch, displays and sound. It has also become an institution
 where blind workers and artists exhibit their work of art.</p><br>
-<img src="images/08_figure.jpg" alt="figure06_tactile_building-Miniature-Madrid" width="300">
+<img src="images/08_figure.jpg" alt="figure06_tactile_building-Miniature-Madrid">
 <figcaption>Figure 8. Visitors and museum staff interacting with a tactile model of a historic building.
 (Madridinandout.com, n.d).</figcaption>
 </figure><br>
@@ -276,7 +276,7 @@ noticed that they have hosted a workshop to create engaging space and one of
 them specifies multi-sensory systems for digital visual displays of their artifacts.
 However, for one of my target groups there is little to no facilities available to
 experience objects and science in this space.</p><br>
-<img src="images/09_10_figure.jpg" alt="figure09_10_workshop_NatureKundMuseum" width="300">
+<img src="images/09_10_figure.jpg" alt="figure09_10_workshop_NatureKundMuseum">
 <figcaption>Figure 9. Illustrated workshop touch points that empahsize meeting their traget group needs. Digitization and multi-sensory access to the exhibition– NaturkundeMuseum, Berlin.
 Figure 10. Outline of collecting future ideas and planning, NaturkundeMuseum, Berlin.</figcaption>
 </figure><br>
@@ -286,14 +286,14 @@ the laboratory of the physicist Ukichiro Nakaya who created the first artificial
 snowflakes are family friendly and provide experimental demonstrations based
 on Nakaya’s research that keep the visitor engaged.</p><br>
 <figure>
-<img src="images/11_figure.jpg" alt="figure11_snow-machine" width="300">
-<img src="images/12_figure.jpg" alt="figure12_snowflake-on-a-thread" width="300">
+<img src="images/11_figure.jpg" alt="figure11_snow-machine">
+<img src="images/12_figure.jpg" alt="figure12_snowflake-on-a-thread">
 <figcaption>Figure 11. and Figure 12.Above shows a Murai type snow producing system at the Museum of snow and ice
 where the staff creates snowflakes every morning and are displayed on the monitor. (Copyright(C) Nakaya
 Ukichiro Museum Of Snow Aand Ice, n.d).</figcaption>
 </figure><br>
 <figure>
-<img src="images/13_figure.jpg" alt="figure13_snow-melting-microscope" width="300">
+<img src="images/13_figure.jpg" alt="figure13_snow-melting-microscope">
 <figcaption>Figure 13.A shape of ice melting from inside. Copyright(C) Nakaya Ukichiro Museum Of Snow Aand Ice, n.d).</figcaption>
 </figure><br>
 <p>With the research work of the physicist K.Libbrecht, he has showcased in detail
@@ -302,7 +302,7 @@ snow crystal photographs. His experiments are also shared with readers of
 how to fossilize snowflakes and he has also put out how to anatomically create
 snowflakes with paper in his website.</p><br>
 <figure>
-<img src="images/14_figure.jpg" alt="figure14_DIY_perserve-snowflakes-with-resin" width="300">
+<img src="images/14_figure.jpg" alt="figure14_DIY_perserve-snowflakes-with-resin">
 <figcaption>Figure 14. A DIY of how to preserve snowflakes with the help of resin. (Kenneth Libbrecht, n.d).</figcaption>
 </figure><br>
 <p>In the research oriented field, the findings are exclusively meant for experts
@@ -325,7 +325,7 @@ to trace a circle on the screen and noted that the children were perceiving
 themselves as the turtle on the screen to predict the moves and actions to draw
 the circle.</p><br>
 <figure>
-<img src="images/15_Braindump2.jpg" alt="figure4_brainDumps" width="300px">
+<img src="images/15_Braindump2.jpg" alt="figure4_brainDumps">
 <figcaption>figure1.Brain dumps</figcaption></figure>
 
 <h1 id="syntonicLearning">4.1 Syntonic learning for meaningful and creative learning</h1>
@@ -344,7 +344,7 @@ and ends. That way, they are not only able to perceive the scientifi c point of
 view but are able to transpose their first-hand experience of snowflakes to their
 perceived knowledge.<br>
 <figure>
-<img src="images/16_figure.jpg" alt="figure16_frogeggs-stars-Huckleberry-Finn" width="400px">
+<img src="images/16_figure.jpg" alt="figure16_frogeggs-stars-Huckleberry-Finn" width="500px">
 <figcaption>figure1. Brain dumps</figcaption></figure>
 The ideology of syntonic learning is to make a deeper connection to ideas
 that brings interest and passions. It may sound idyllic when looking at it from
@@ -393,9 +393,9 @@ from each side simultaneously like the diagram below simplified by physicists
 Libbrecht Kenneth.</p>
 <br>
 <figure>
-<img src="images/17_figure.png" alt="figure17_NakayaDiagram" width="300px">
+<img src="images/17_figure.png" alt="figure17_NakayaDiagram">
 <figcaption>Figure 16.Nakaya Diagram.(Nakaya, 1954)</figcaption>
-<img src="images/18_figure.jpg" alt="figure18_kennethL" width="300px">
+<img src="images/18_figure.jpg" alt="figure18_kennethL">
 <figcaption>Figure 17. Snowflakegrowth.(Libbrecht, n.d).</figcaption>
 </figure>
 
@@ -413,14 +413,14 @@ delivered in a simple educative format. That way the viewers are not strained to
 complex information and it took them just under 5 minutes to understand the
 science behind the shapes of snowflakes.</p><br>
 <figure>
-<img src="images/tedX1.jpg" alt="figure17_tedX"  width="300px">
-<img src="images/tedX.jpg" alt="figure18_tedX"  width="300px">
+<img src="images/tedX1.jpg" alt="figure17_tedX">
+<img src="images/tedX.jpg" alt="figure18_tedX">
 <figcaption>Figure 17.(TED-ED, 2015).</figcaption>
 </figure>
 
 <figure>
-<img src="images/becauseScience1.jpg" alt="figure19_becauseScience1"  width="300px">
-<img src="images/becauseScience2.jpg" alt="figure20_becauseScience2"  width="300px">
+<img src="images/becauseScience1.jpg" alt="figure19_becauseScience1">
+<img src="images/becauseScience2.jpg" alt="figure20_becauseScience2">
 <figcaption>Figure 18.(Because Science, 2020).</figcaption>
 </figure>
 
@@ -444,7 +444,7 @@ show the various parts of the flower by showing them separately or adding new
 information on all the various steps of the object or form until its final form.</p>
 
 <figure>
-<img src="images/flower_polly1.jpg" alt="figure21_flower_tactileGraphics_stepbystep_anatomy_of_a_flower"  width="300px">
+<img src="images/19_figure.jpg" alt="figure21_flower_tactileGraphics_stepbystep_anatomy_of_a_flower">
 <figcaption>Figure 19.B. A flower shown in a step-by-step technique, method 1. This is a paper-on-paper buildup with
 string added to the display. Tactile graphics. (Polly k. Edman, 1992).</figcaption></figure>
 <br>
@@ -474,7 +474,7 @@ to show the starting point, simplifi ed form of each growing stage and shape
 transition till its fi nal form. the reader will be notifi ed that each of these tactile
 graphics’ real size and texture has been scale for readability.</p><br>
 <figure>
-<img src="images/tactile1.jpg" alt="figure23_"  width="300px">
+<img src="images/tactile1.jpg" alt="figure23_">
 <figcaption>Figure 21.Tactile graphics. (Polly k. Edman, 1992)</figcaption></figure>
 
 <!-- Jenny Bergstorm-->
@@ -500,17 +500,17 @@ tactile graphics.<br>
 language and braille.<br>
 The design methods are further elaborated into my 5.0 Design process.</p>
 <figure>
-<img src="images/designthinkingProcess.png" alt="figure24_designthinkingProcess" width="300px">
+<img src="images/designthinkingProcess.png" alt="figure24_designthinkingProces">
 <figcaption>Figure 22.Design attitude: Design Thinking process. (IdeoU, 2020)</figcaption>
 </figure>
 <figure>
-<img src="images/Design-Attitude_Doodle.png" alt="figure25_onionLayer" width="300px">
+<img src="images/Design-Attitude_Doodle.png" alt="figure25_onionLayer">
 <figcaption>Figure 23.Design attitude: Simon Sinek’s the Golden circle.
 (Sinek, 2020)</figcaption>
 </figure>
 
 <h1 id="workshop">4.6 Workshop: Creating ideas from experience</h1>
-<img src="images/24a_figure.jpg" alt="figure24a_workshop-exercise"  width="300px">
+<img src="images/24a_figure.jpg" alt="figure24a_workshop-exercise">
 <br>
 <p>The aim of the workshop is to fi nd my participants’ experiences with snow
 and use their experience to help a possible user visualize the theme in and
@@ -535,8 +535,8 @@ knowledge and drew many creative snow crystals in the process. The results are
 then studied and taken as the key elements to make interactive snowflakes for
 the screen.<br>
 <figure>
-<img src="images/24b_figure.jpg" alt="figure24b_workshop-exercise"  width="300px">
-<img src="images/workshop_ex1.jpg" alt="figure24__workshopResults"  width="300px">
+<img src="images/24b_figure.jpg" alt="figure24b_workshop-exercise">
+<img src="images/workshop_ex1.jpg" alt="figure24__workshopResults">
 <figcaption>Figure 24.Workshop of creating ideas’ how to introduction. Figure 25.Submission of participants’ exercises.</figcaption>
 </figure><br>
 The exercises submitted by the participants showcased strong visualization of
@@ -600,7 +600,7 @@ helps me with visual programming but is able to connect with an analog system
 like Arduino.</p>
 <br>
 <figure>
-<img src="images/28_figure.jpg" alt="figure28_logo-program-nimbostratus-cloud-in-code">
+<img src="images/28b_figure.jpg" alt="figure28_logo-program-nimbostratus-cloud-in-code">
 <img src="images/29_figure.jpg" alt="figure29_logo-program-hexagon-shape-solid-plate-snow-crystal">
 <figcaption>Figure 28. Code that create a symbol sign of nimbostratus cloud in Logo programming. Figure 29.A visualization done in Logo programming rendering geometric diagram of solid plate snow crystal.</figcaption>
 </figure>
@@ -631,7 +631,7 @@ The question consists of the following exploration<br>
 - understanding the snow science behind it.<br>
 - tactile feel for a better learning experience.
 </p><br>
-<img src="images/30_figure.jpg" alt="figure30__brainDumps" width="300px">
+<img src="images/30_figure.jpg" alt="figure30__brainDumps">
 <figcaption>Figure 30. Sketch of my design concept that focuses on multi-sensory experience.</figcaption>
 </figure><br>
 
@@ -654,7 +654,7 @@ mathematician.</li>
 </ul>
 </p><br>
 <figure>
-<img src="images/interactive_prototype_idea.png" alt="figure35__idea_flow" width="400px">
+<img src="images/interactive_prototype_idea.png" alt="figure35__idea_flow">
 <figcaption>Figure 31.  A infograph sketch of how my intrecative installtion will work.</figcaption>
 </figure>
 
@@ -666,9 +666,9 @@ understand the creation of snowflakes. The paper prototype demonstrates how
 the story will begin for the user as he or she interacts with the installation. For
 the tactile graphics, I opted for acrylic cut out for the graphics.</p><br>
 <figure>
-<img src="images/32_figure_idea.jpg" alt="figure35__paper-installation-layout" width="400px">
-<img src="images/33_figure_idea.jpg" alt="figure35__top-view-blueprint" width="400px">
-<img src="images/34_figure_idea.jpg" alt="figure35__3d-snowflakes-handmade" width="400px">
+<img src="images/32_figure.jpg" alt="figure35__paper-installation-layout">
+<img src="images/33_figure.jpg" alt="figure35__top-view-blueprint">
+<img src="images/34_figure.jpg" alt="figure35__3d-snowflakes-handmade">
 <figcaption>Figure 32. Paper prototype of my installation. Figure
 33.Top view of my installation insketch. Figure 34.3D
 tactile graphic of a stellar dendrite snowflake.</figcaption>
