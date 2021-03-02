@@ -199,7 +199,8 @@ that displayed each of the types of his lab-grown snow crystals.<br>
 <figure>
 <img src="images/01_museumNakaya.jpg" alt="figure1_museum-Nakaya">
 <figcaption>Figure 1. Exhibition room. (Copyright(C) Nakaya Ukichiro Museum Of Snow Aand Ice, n.d)</figcaption>
-</figure><br>
+</figure>
+<br><br>
 <p>One of the recent studies of snow crystals is of Kenneth Libbrecht, a physicist
 and a professor of Caltech University. His scientific work shows a comprehensive
 discourse of the morphology and formation of snow crystals starting from
@@ -211,14 +212,16 @@ simplified his findings as guides and also tried to debunk myths and nonsense.</
 <img src="images/02_sampler_snowflakes1.jpg" alt="figure2_types_of_snowflakes">
 <img src="images/03_stellardendrites1.jpg" alt="figure3_types_of_snowflakes_stellarDendrites">
 <figcaption>Figure 2.Triangular crystals. Figure 3. Stellar dendrites (Kenneth Libbrecht, n.d).</figcaption>
-</figure><br>
-
+</figure>
+<br>
+<br>
 <<p>In general, visual studies in science are vast and complex, exclusively meant for
 scientific purposes to demonstrate a more visual simulating view of the hoard
 of information that the researchers have found. In the field of design for my
 target group, there are only a few and are remotely demonstrated through live
 experiments.
 </p>
+<br>
 <br>
 <p><b>Existing Museums with inclusive design and for the visually impaired
 visitors.</b> <br>
@@ -236,12 +239,15 @@ movement. The visitors can also touch a replica of the famous “Hohe Pappeln”
 house (1907) designed by the Belgian architect Henry Van de Velde. These
 tactile installations are replicated in the same size of the real artifact displayed,
 making it more accessible with braille reliefs for the content.</p>
+<br>
 <figure>
 <img src="images/04_Weimar1.jpg" alt="figure2_tactile_miniature-Building_Weimar" width="500">
 <img src="images/05_Weimar5.jpg" alt="figure3_kiosk_tactile-Graphic_Weimar" width="500">
 <figcaption>Figure 4. Tactile model of “Hohe Pappeln” house (1907) of the Belgian architect Henry Van de Velde disolayed at Klassik Stiftung Weimar. Figure 5. tA tactile pavillion showing the Facade of Germany National Theater.
 (Tactile Studio, n.d).</figcaption>
-</figure><br>
+</figure>
+<br>
+<br>
 <p>The Louvre, Paris, reconstructed with the help of Tactile studio the many
 architectural elements in detailed explanation of its history and modifi cation of
 Louvre through time. There are 3D reconstructed artifacts with an accessible
@@ -253,7 +259,9 @@ explore.</p><br>
 <figcaption>Figure 6. A parade helmet of King Charles VI, inscribed with his motto and his emblem – the winged stag.
 Figure 7. Tactile station at the pavilion in 3D relief and braille, Pavillon de l’Horloge at the Louvre.
 (Tactile Studio, n.d).</figcaption>
-</figure><br>
+</figure>
+<br>
+<br>
 <p>There are museums especially focused on visual impaired visitors. It’s worth
 noting that the design concepts incorporated here are similar to well known
 museum’s inclusive design concept for interactive stimulation between humans
@@ -266,7 +274,9 @@ where blind workers and artists exhibit their work of art.</p><br>
 <img src="images/08_figure.jpg" alt="figure06_tactile_building-Miniature-Madrid">
 <figcaption>Figure 8. Visitors and museum staff interacting with a tactile model of a historic building.
 (Madridinandout.com, n.d).</figcaption>
-</figure><br>
+</figure>
+<br>
+<br>
 <p>Educational spaces and museums play an integral part to showcase and
 exchange scientific and historical information much richer than textbooks.
 There have been workshops to bring in an engaging environment of their targets
@@ -280,23 +290,28 @@ experience objects and science in this space.</p><br>
 <img src="images/09_10_Figure.jpg" alt="figure09_10_workshop_NatureKundMuseum">
 <figcaption>Figure 9. Illustrated workshop touch points that empahsize meeting their traget group needs. Digitization and multi-sensory access to the exhibition– NaturkundeMuseum, Berlin.
 Figure 10. Outline of collecting future ideas and planning, NaturkundeMuseum, Berlin.</figcaption>
-</figure><br>
+</figure>
+<br>
+<br>
 <p>In terms of showcasing research of morphication of snow crystals, they are
 only available remotely. The Museum of Snow and Ice in Japan, which was
 the laboratory of the physicist Ukichiro Nakaya who created the first artificial
 snowflakes are family friendly and provide experimental demonstrations based
-on Nakaya’s research that keep the visitor engaged.</p><br>
+on Nakaya’s research that keep the visitor engaged.</p>
+<br>
 <figure>
 <img src="images/11_figure.jpg" alt="figure11_snow-machine">
 <img src="images/12_figure.jpg" alt="figure12_snowflake-on-a-thread">
 <figcaption>Figure 11. and Figure 12.Above shows a Murai type snow producing system at the Museum of snow and ice
 where the staff creates snowflakes every morning and are displayed on the monitor. (Copyright(C) Nakaya
 Ukichiro Museum Of Snow Aand Ice, n.d).</figcaption>
-</figure><br>
+</figure>
+<br>
 <figure>
 <img src="images/13_figure.jpg" alt="figure13_snow-melting-microscope">
 <figcaption>Figure 13.A shape of ice melting from inside. Copyright(C) Nakaya Ukichiro Museum Of Snow Aand Ice, n.d).</figcaption>
 </figure><br>
+<br>
 <p>With the research work of the physicist K.Libbrecht, he has showcased in detail
 his crafted snow crystals from his lab through videos and collection of lab grown
 snow crystal photographs. His experiments are also shared with readers of
@@ -306,6 +321,7 @@ snowflakes with paper in his website.</p><br>
 <img src="images/14_figure.jpg" alt="figure14_DIY_perserve-snowflakes-with-resin">
 <figcaption>Figure 14. A DIY of how to preserve snowflakes with the help of resin. (Kenneth Libbrecht, n.d).</figcaption>
 </figure><br>
+<br>
 <p>In the research oriented field, the findings are exclusively meant for experts
 and it can be daunting to know that such fi ndings are not accessible for larger
 groups of non-experts, students, disabled individuals nor extensively portrayed
@@ -347,6 +363,8 @@ perceived knowledge.<br>
 <figure>
 <img src="images/16_figure.png" alt="figure16_frogeggs-stars-Huckleberry-Finn" width="500px">
 <figcaption>figure1. Brain dumps</figcaption></figure>
+<br>
+<br>
 The ideology of syntonic learning is to make a deeper connection to ideas
 that brings interest and passions. It may sound idyllic when looking at it from
 a grander scale while it is actually the everyday observations that we have
@@ -449,6 +467,7 @@ information on all the various steps of the object or form until its final form.
 <figcaption>Figure 19.B. A flower shown in a step-by-step technique, method 1. This is a paper-on-paper buildup with
 string added to the display. Tactile graphics. (Polly k. Edman, 1992).</figcaption></figure>
 <br>
+<br>
 <p>2.Texture and details are important to help differentiate between different
 objects. The contrast in height and texture are the most important element for
 reader comprehension. It helps make the characteristic details of the object
@@ -457,6 +476,7 @@ confused with each other if the cat didn’t have whiskers and its pointy ears.<
 <figure>
 <img src="images/cat_polly2.jpg" alt="figure22_cat_tactileGraphics_simplified_details_of_a_cat">
 <figcaption>Figure 20 .A. and B. Suggest dealing with the details that helps readers to differentiate between a sitting cat and a snowman. Tactile graphics. (Polly k. Edman, 1992).</figcaption></figure>
+<br>
 <br>
 <p>3. Size and scale for the displayed object can be done if details are necessary
 for the readers to feel it. Over emphasis of the details but not to the point
@@ -539,7 +559,9 @@ the screen.<br>
 <img src="images/24b_figure.jpg" alt="figure24b_workshop-exercise" width="500">
 <img src="images/workshop_ex1.jpg" alt="figure24__workshopResults" width="500">
 <figcaption>Figure 24.Workshop of creating ideas’ how to introduction. Figure 25.Submission of participants’ exercises.</figcaption>
-</figure><br>
+</figure>
+<br>
+<br>
 The exercises submitted by the participants showcased strong visualization of
 their experience by describing their mood, activities, sounds, and their close
 examination of snow crystals. With all the elements they had noted down,
@@ -577,6 +599,8 @@ with one simple hexagon.</p><br>
 <img src="images/27a_figure.JPG" alt="figure27_logo-program-hexagon-shape" width="500">
 <figcaption>Figure 27.Moving turtle to make a series of hexagon in logo progamming.</figcaption>
 </figure>
+<br>
+<br>
 <p>I also rendered designs to create a story of how snowflakes are created but
 animating it.The code gets tedious to animate and also gets difficult as I move
 to more complex snowflakes design. I had to command the turtle to move
@@ -635,7 +659,7 @@ The question consists of the following exploration<br>
 <img src="images/30_figure.jpg" alt="figure30__brainDumps"  width="500">
 <figcaption>Figure 30. Sketch of my design concept that focuses on multi-sensory experience.</figcaption>
 </figure><br>
-
+<br>
 <p>•How will snow science knowledge be applied to recreate the
 snowflakes in graphic design? and what will be applied?<br>
 <ul>
@@ -674,6 +698,7 @@ the tactile graphics, I opted for acrylic cut out for the graphics.</p><br>
 33.Top view of my installation insketch. Figure 34.3D
 tactile graphic of a stellar dendrite snowflake.</figcaption>
 </figure>
+<br>
 <br>
 <p>Either by touch or visuals for the eyes, I determine to create an interactive artifact like an object
 displayed in a museum. This design concept leads to prototypical sketches and in the time leading
@@ -741,6 +766,7 @@ by activating the light animation with hand gesture.</figcaption>
 <img src="images/interaction.jpg" alt="figure38_body" width="500px">
 <figcaption>Figure 43.Light animation of the installation from side view.</figcaption>
 </figure>
+<br>
 <br>
 <p>The screen on the third panel displays the growing snowflakes as the user
 turns the knobs. The tactile chart designed on this panel is to help users to
