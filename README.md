@@ -3574,9 +3574,9 @@ stands for each graphics were built to resolve the much-needed space for the
 lights to glow evenly.</p>
 <br>
 <figure>
-<img src="images/blueprint.jpg" alt="figure37_sketch_structure-installation" width="400">
+<img src="images/blueprint.jpg" alt="figure37_sketch_structure-installation">
 <figcaption>Figure 37.Blueprint sketched of my installation</figcaption>
-<img src="images/structure.jpg" alt="figure38-initial-making-of-the-installation" width="400">
+<img src="images/structure.jpg" alt="figure38-initial-making-of-the-installation">
 <figcaption>Figure 38. Physical structure work in progress</figcaption>
 </figure>
 
@@ -3586,10 +3586,10 @@ space between them to help evenly spread the lights it would emit. The cut-out
 stands for each graphics were built to resolve the much-needed space for the
 lights to glow evenly.</p>
 <figure>
-<img src="images/40_figure.jpg" alt="figure40-tactile-graphics-set-up" width="400">
+<img src="images/40_figure.jpg" alt="figure40-tactile-graphics-set-up">
 <figcaption>Figure 40. Work in progress of setting up tactile graphics on the installations’ panel.
 Laser cut MDF board cut-outs.</figcaption>
-<img src="images/41_figure.jpg" alt="figure41-laser-cut-snowflakes" width="400">
+<img src="images/41_figure.jpg" alt="figure41-laser-cut-snowflakes">
 <figcaption>Figure 41. Acrylic cut-outs of different stages of snowflakes and watermolecule structure.</figcaption>
 </figure>
 
@@ -3606,10 +3606,10 @@ The shapes are inspired by the exercises submitted by the participants in the
 workshop.
 </p><br>
 <figure>
-<img src="images/test.jpg" alt="figure37_test">
+<img src="images/test.jpg" alt="figure37_test" width="500px">
 <figcaption>Figure 42.Sighted individual testing the installation
 by activating the light animation with hand gesture.</figcaption>
-<img src="images/interaction.jpg" alt="figure38_body">
+<img src="images/interaction.jpg" alt="figure38_body" width="500px">
 <figcaption>Figure 43.Light animation of the installation from side view.</figcaption>
 </figure>
 <br>
@@ -3620,9 +3620,9 @@ The shapes are inspired by the exercises submitted by the participants in the
 workshop.</p>
 <br>
 <figure>
-<img src="images/44_figure.jpg" alt="figure44_tactile_snowflakes-chart">
+<img src="images/44_figure.jpg" alt="figure44_tactile_snowflakes-chart" width="500px">
 <figcaption>Figure 44. Work in progress tactile chart tested by a sighted individual.</figcaption>
-<img src="images/45_figure.jpg" alt="figure45_interactive-panel-installation-user-using-knobs-to-grow-snowflakes">
+<img src="images/45_figure.jpg" alt="figure45_interactive-panel-installation-user-using-knobs-to-grow-snowflakes" width="500px">
 <figcaption>Figure 45. Tester manipulating the growth of snowflakes with the two knobs.</figcaption>
 </figure>
 
@@ -3660,7 +3660,7 @@ with users.</li>
 <br>
 
 <figure>
-<img src="images/interaction3.jpg" alt="figure35_screen_interaction">
+<img src="images/interaction3.jpg" alt="figure35_screen_interaction" width="400px">
 <figcaption></figcaption>
 
 <h1 id="implications">7.0 Implications: Multi-skill sets</h1>
@@ -3768,7 +3768,7 @@ watch?v=ZG9cYhekB8A "></a></li>
 <li>Syntonic. (n.d.) Collins English Dictionary – Complete and Unabridged, 12th
 Edition 2014. (1991, 1994, 1998, 2000, 2003, 2006, 2007, 2009, 2011,
 2014). Retrieved from <a href="https://www.thefreedictionary.com/syntonic
-[Accessed July 9 2019]."></a></li>
+[Accessed July 9 2019].">thefreedictionary.com</a></li>
 <li>Polly K.Edman (1992) : Tactile Graphics. Published by AFB Press
 [HV1708. E36 1992]</li>
 <li>Timeline of snowflakes research. ( 2019, 29 September). In Wikipedia.
