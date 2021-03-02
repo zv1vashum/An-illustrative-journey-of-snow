@@ -414,14 +414,14 @@ delivered in a simple educative format. That way the viewers are not strained to
 complex information and it took them just under 5 minutes to understand the
 science behind the shapes of snowflakes.</p><br>
 <figure>
-<img src="images/tedX1.jpg" alt="figure17_tedX">
-<img src="images/tedX.jpg" alt="figure18_tedX">
+<img src="images/tedX1.jpg" alt="figure17_tedX" width="500">
+<img src="images/tedX.jpg" alt="figure18_tedX" width="500">
 <figcaption>Figure 17.(TED-ED, 2015).</figcaption>
 </figure>
 
 <figure>
-<img src="images/becauseScience1.jpg" alt="figure19_becauseScience1">
-<img src="images/becauseScience2.jpg" alt="figure20_becauseScience2">
+<img src="images/becauseScience1.jpg" alt="figure19_becauseScience1" width="500">
+<img src="images/becauseScience2.jpg" alt="figure20_becauseScience2" width="500">
 <figcaption>Figure 18.(Because Science, 2020).</figcaption>
 </figure>
 
@@ -573,8 +573,8 @@ a point to a whole set of hexagons into different types of snowflakes. Images of
 LOGO snow renders. Image below shows how I started creating different sizes
 with one simple hexagon.</p><br>
 <figure>
-<img src="images/27_figure.jpg" alt="figure27_logo-program-code" width="500">
-<img src="images/27a_figure.jpg" alt="figure27_logo-program-hexagon-shape" width="500">
+<img src="images/27_figure.JPG" alt="figure27_logo-program-code" width="500">
+<img src="images/27a_figure.JPG" alt="figure27_logo-program-hexagon-shape" width="500">
 <figcaption>Figure 27.Moving turtle to make a series of hexagon in logo progamming.</figcaption>
 </figure>
 <p>I also rendered designs to create a story of how snowflakes are created but
